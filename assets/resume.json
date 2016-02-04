@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Cristian Pascottini",
+    "label": "Full Stack Web Developer",
+    "picture": "assets/img/cristian_pascottini_2.jpg",
+    "email": "cristian@pascottini.net",
+    "phone": "(+39) 349 8336238",
+    "website": "http://cristian.pascottini.net",
+    "summary": "A skilled web applications and UI developer with a wealth of experience gained by working on a variety of projects from enterprise website, e-commerce and ad hoc solutions. An accurate person, flexible and a decision maker. Constantly perfecting skills through readings and personal experiments to offer innovative hardware and software architectures to customers.",
+    "location": {
+      "address": "Viale delle Mimose 24/5",
+      "postalCode": "33030",
+      "city": "Campoformido",
+      "countryCode": "UD",
+      "region": "Italy"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "cristianp6",
+        "url": "https://twitter.com/cristianp6"
+      },
+      {
+        "network": "Github",
+        "username": "cristianp6",
+        "url": "https://github.com/cristianp6"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "cristianpascottini",
+        "url": "https://www.linkedin.com/in/cristianpascottini"
+      },
+      {
+        "network": "YouTube",
+        "username": "cristianp6",
+        "url": "https://www.youtube.com/user/cristianp6"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Namecase S.r.l.",
+      "position": "Frontend/Backend Developer",
+      "website": "http://namecase.com",
+      "startDate": "2014-11",
+      "endDate": "",
+      "summary": "Workflow analysis and optimization of nidoma.com.",
+      "highlights": [
+        "RESTful APIs with Message Queuing system",
+        "Responsive frontends with AngularJS",
+        "Integration of protocols of international domain names registries"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Udine",
+      "area": "Web and Multimedia Technologies",
+      "studyType": "Bachelor",
+      "startDate": "2003-10",
+      "endDate": "2007-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Client side",
+      "level": "Good",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "AngularJS",
+        "jQuery",
+        "JSON"
+      ]
+    },
+    {
+      "name": "Server side",
+      "level": "Good",
+      "keywords": [
+        "PHP",
+        "Silex",
+        "Slim",
+        "ReactPHP",
+        "Ruby",
+        "Sinatra",
+        "Shell"
+      ]
+    },
+    {
+      "name": "CMS",
+      "level": "Master",
+      "keywords": [
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Good",
+      "keywords": [
+        "Git",
+        "Subversion",
+        "Google Analytics",
+        "Google AdWords"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Good",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Web Server",
+      "level": "Good",
+      "keywords": [
+        "nginx",
+        "Apache"
+      ]
+    },
+    {
+      "name": "O.S.",
+      "level": "Good",
+      "keywords": [
+        "Mac OS",
+        "Linux",
+        "Ubuntu",
+        "Debian"
+      ]
+    },
+    {
+      "name": "Sys Admin",
+      "level": "Sufficient",
+      "keywords": [
+        "Samba",
+        "NFS",
+        "VirtualBox"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Very good understanding, good speaking and adequate writing skills"
+    }
+  ]
+}

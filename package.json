@@ -1,0 +1,21 @@
+{
+  "name": "cristianp6.github.io",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristianp6/cristianp6.github.io"
+  },
+  "author": "Cristian Pascottini <cristian@pascottini.net> (http://cristian.pascottini.net/)",
+  "license": "",
+  "description": "My Resume",
+  "dependencies": {
+    "hackmyresume": "^1.7.4"
+  },
+  "devDependencies": {
+    "jsonresume-theme-elegant": "^1.1.8",
+    "jsonresume-theme-modern": "0.0.18"
+  },
+  "keywords": [
+    "cv"
+  ]
+}
